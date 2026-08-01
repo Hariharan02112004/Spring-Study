@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4021c63b-4487-49d0-8e6f-2a6402ef00a5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="39q3YIP1BWavwgs92mWTAgRAhAr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.JobApplicationProject.executor": "Run",
+    "Application.com.Project.JobApplication.JobApplicationProject.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/harin/OneDrive/Desktop/SpringStudy 2.0/Spring AOP/Job Application Project",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\harin\OneDrive\Desktop\SpringStudy 2.0\Job Application Project\src\main\java\com\Projects" />
+      <recent name="C:\Users\harin\OneDrive\Desktop\SpringStudy 2.0\Job Application Project\src\main\java\com" />
+      <recent name="C:\Users\harin\OneDrive\Desktop\SpringStudy 2.0\Job Application Project" />
+      <recent name="C:\Users\harin\OneDrive\Desktop\SpringStudy 2.0\Job Application Project\demo\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\harin\OneDrive\Desktop\SpringStudy 2.0\Job Application Project\demo\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="com.Project.JobApplication.JobApplicationProject" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.Project.JobApplication.JobApplicationProject" />
+      <module name="Job Application Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Projects.JobApplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4021c63b-4487-49d0-8e6f-2a6402ef00a5" name="Changes" comment="" />
+      <created>1771409821299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771409821299</updated>
+      <workItem from="1779088524727" duration="5499000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
