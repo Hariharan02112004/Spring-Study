@@ -1,0 +1,28 @@
+services:
+  postgres:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: Hari
+      POSTGRES_PASSWORD: 3456
+      POSTGRES_DB: Thambi
+    ports:
+      - "5433:5432"
+    networks:
+     -  s-network
+  app:
+    build: .
+    ports:
+     - "8080:8080"
+    depends_on:
+      - postgres
+    networks:
+     - s-network
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+networks:
+  s-network:
+    driver: bridge
+
+
+volumes:
+  postgres-data:
